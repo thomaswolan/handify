@@ -1,6 +1,6 @@
 # Handify
 
-## Introduction
+## About
 
 Welcome to Handify, a Python-based application developed during VTHacks 11. Handify utilizes computer vision from OpenCV and machine learning models from Roboflow to interpret live webcam hand signals. The primary goal is to provide hands-free playback control, with a specific focus on usability for the visually impaired.
 
