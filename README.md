@@ -1,15 +1,18 @@
 # Handify
+
+## Introduction
+
 Welcome to Handify, a Python-based application developed during VTHacks 11. Handify utilizes computer vision from OpenCV and machine learning models from Roboflow to interpret live webcam hand signals. The primary goal is to provide hands-free playback control, with a specific focus on usability for the visually impaired.
 
-Technologies Used
+## Technologies Used
 
-Python: The core programming language for the application.
+- **Python:** The core programming language for the application.
 
-OpenCV: Utilized for computer vision to interpret hand signals in real-time.
+- **OpenCV:** Utilized for computer vision to interpret hand signals in real-time.
 
-Roboflow: Machine learning models from Roboflow enhance the accuracy of hand signal interpretation.
+- **Roboflow:** Machine learning models from Roboflow enhance the accuracy of hand signal interpretation.
 
-Spotify API: Integrated to enable hands-free playback control.
+- **Spotify API:** Integrated to enable hands-free playback control.
 
 Before running webcam.py, paste the following into the terminal:
 
